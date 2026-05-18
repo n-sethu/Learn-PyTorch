@@ -19,6 +19,6 @@ Each module has corresponding exercises and notes written in my own words.
 
 ## Resources
 
-- [learnpytorch.io](https://docs.pytorch.org/tutorials/beginner/basics/intro.html) by Daniel Bourke
+- [learnpytorch.io](https://www.learnpytorch.io) by Daniel Bourke
 - [PyTorch official tutorials](https://docs.pytorch.org/tutorials/beginner/basics/intro.html)
 
